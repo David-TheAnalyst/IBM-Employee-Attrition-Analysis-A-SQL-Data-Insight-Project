@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/David-TheAnalyst/IBM-Employee-Attrition-Analysis-A-SQL-Data-Insight-Project/blob/main/EmpJApa.png" alt="Flowpal Sales Dashboard Additional View" width="300" height="auto">
+  <img src="https://github.com/David-TheAnalyst/IBM-Employee-Attrition-Analysis-A-SQL-Data-Insight-Project/blob/main/EmpJApa.png" alt="Flowpal Sales Dashboard Additional View" width="700" height="auto">
 </div>
 
 
