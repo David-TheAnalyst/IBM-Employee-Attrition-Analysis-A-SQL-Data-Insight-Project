@@ -1,5 +1,11 @@
 # IBM Employee Attrition Analysis: A SQL-Driven Insight Project
 
+
+<div align="center">
+  <img src="https://github.com/David-TheAnalyst/IBM-Employee-Attrition-Analysis-A-SQL-Data-Insight-Project/blob/main/EmpJApa.png" alt="Flowpal Sales Dashboard Additional View" width="300" height="auto">
+</div>
+
+
 ## **Introduction:**
 
 
@@ -41,8 +47,14 @@ I utilized a suite of SQL's powerful aggregate functions (e.g., AVG, COUNT), gro
 
 I formulated and directly validated critical business hypotheses through the construction of complex, multi-layered SQL queries. This iterative process allowed for rapid testing of assumptions and the extraction of deeper, more nuanced insights into attrition drivers.
 
+<div align="center">
+  <img src="https://github.com/David-TheAnalyst/IBM-Employee-Attrition-Analysis-A-SQL-Data-Insight-Project/blob/main/Insight%208%20(2).png" alt="Flowpal Sales Dashboard Additional View" width="500" height="auto">
+</div>
 
-You can explore the code to understand the precise logic and methodology behind these insights [Here](Link).
+A glimpse of the logic and methodology for the 8th Insight
+
+
+You can explore the code to understand the precise logic and methodology behind these insights [Here](https://github.com/David-TheAnalyst/IBM-Employee-Attrition-Analysis-A-SQL-Data-Insight-Project/blob/main/HR-EmployeeAttrition.sql).
 
 
 ## **Key Insights:**
@@ -90,12 +102,7 @@ Based on these critical insights, the following data-backed recommendations are 
 
 ## **Conclusion:** 
 
-This project demonstrates the transformative power of SQL in dissecting complex organizational challenges. By meticulously analyzing attrition patterns, we've moved beyond surface-level observations to uncover the precise factors driving employee departures, particularly among high-performing and long-serving staff in critical departments. 
-
-The insights gleaned from this data are not just statistics; they are a clear call to action, enabling IBM to pivot from reactive churn management to proactive talent retention.
-
-
-In an era where human capital is paramount, understanding and nurturing your workforce is the ultimate competitive advantage. This SQL-driven analysis provides the essential blueprint for strategic interventions, ensuring IBM can cultivate a more engaged, satisfied, and stable talent pool, ultimately reinforcing its organizational strength and future success.
+The insights gleaned from this data are not just statistics but a clear call to action, enabling IBM to pivot from reactive churn management to proactive talent retention. In an era where human capital is paramount, understanding and nurturing your workforce is the ultimate competitive advantage. This SQL-driven analysis provides the essential blueprint for strategic interventions, ensuring IBM can cultivate a more engaged, satisfied, and stable talent pool, ultimately reinforcing its organizational strength and future success.
 
 
 
