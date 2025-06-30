@@ -33,14 +33,16 @@ This project was specifically designed to answer pressing, real-world questions 
 ## **My Approach:**
 
 
-Precise Data Acquisition & Transformation: I meticulously cleaned, validated, and structured the raw, heterogeneous data directly within the database environment. This involved identifying and rectifying inconsistencies, managing missing values, and establishing clear relational structures essential for accurate analysis.
+I meticulously cleaned, validated, and structured the raw, heterogeneous data directly within the database environment. This involved identifying and rectifying inconsistencies, managing missing values, and establishing clear relational structures essential for accurate analysis.
 
 
-In-Depth Exploratory Data Analysis: I utilized a suite of SQL's powerful aggregate functions (e.g., AVG, COUNT), grouping capabilities (GROUP BY), and filtering clauses (WHERE) to uncover hidden patterns and trends across numerous key dimensions, including JobLevel, Gender, MonthlyIncome, and YearsSinceLastPromotion.
+I utilized a suite of SQL's powerful aggregate functions (e.g., AVG, COUNT), grouping capabilities (GROUP BY), and filtering clauses (WHERE) to uncover hidden patterns and trends across numerous key dimensions, including JobLevel, Gender, MonthlyIncome, and YearsSinceLastPromotion.
 
 
-Hypothesis Testing through Complex Queries: I formulated and directly validated critical business hypotheses through the construction of complex, multi-layered SQL queries. This iterative process allowed for rapid testing of assumptions and the extraction of deeper, more nuanced insights into attrition drivers.
+I formulated and directly validated critical business hypotheses through the construction of complex, multi-layered SQL queries. This iterative process allowed for rapid testing of assumptions and the extraction of deeper, more nuanced insights into attrition drivers.
 
+
+You can explore the code to understand the precise logic and methodology behind these insights [Here](Link).
 
 
 ## **Key Insights:**
@@ -83,6 +85,9 @@ Based on these critical insights, the following data-backed recommendations are 
 6. Launch mandatory leadership development programs and mentorship initiatives specifically for managers within the Human Resources, Research & Development, and Sales departments. 
 
 
+
+
+
 ## **Conclusion:** 
 
 This project demonstrates the transformative power of SQL in dissecting complex organizational challenges. By meticulously analyzing attrition patterns, we've moved beyond surface-level observations to uncover the precise factors driving employee departures, particularly among high-performing and long-serving staff in critical departments. 
@@ -102,7 +107,8 @@ In an era where human capital is paramount, understanding and nurturing your wor
 <a href="https://www.youtube.com/c/davidojo-j3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidojo-j3v" height="30" width="40" /></a>
 </p>
 
-Thanks for stopping by!
+
+**Thanks for stopping by!**
 
 
 
